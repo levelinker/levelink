@@ -38,9 +38,9 @@ README.md 파일 작성 필수 항목:
 
 자료 및 영상 링크 (필수 포함):
 
-2분 요약 영상 링크 (유튜브 or 다른곳 OK):https://youtube.com/shorts/j_qK3aKWwwU
+2분 요약 영상 링크 (유튜브 or 다른곳 OK):https://youtube.com/shorts/apzqlXwGYEo?si=ZTK7bI1K3YAW0n9V
 
-10분 상세 발표 영상 링크 (유튜브):https://youtu.be/zLPMdIA-o_E
+10분 상세 발표 영상 링크 (유튜브):https://youtu.be/1qQIP6xSOJw?si=Iwx74U1h1aTObj7Z
 
 프로젝트 최종 보고서 파일 (PDF 파일 업로드 후 링크 연결):https://drive.google.com/file/d/1JtLjQC6tqq209Q12PhgDs2dOKWvjA9if/view?usp=sharing
 
