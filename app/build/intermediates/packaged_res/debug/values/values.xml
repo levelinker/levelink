@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zero or Hundred</string>
+    <string name="gcm_defaultSenderId" translatable="false">943856314908</string>
+    <string name="google_api_key" translatable="false">AIzaSyCgO5jTNjpxcEyL5tr8lLp7M2-HE-8SBa8</string>
+    <string name="google_app_id" translatable="false">1:943856314908:android:d6a9431908ed9a08decdd9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCgO5jTNjpxcEyL5tr8lLp7M2-HE-8SBa8</string>
+    <string name="google_storage_bucket" translatable="false">zeroorhundred-3fc4c.firebasestorage.app</string>
+    <string name="project_id" translatable="false">zeroorhundred-3fc4c</string>
+    <style name="Theme.ZeroOrHunderd" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

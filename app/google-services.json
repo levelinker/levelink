@@ -1,0 +1,57 @@
+{ 
+ 
+ "project_info": { 
+ 
+ "project_number": "943856314908", 
+ 
+ "project_id": "zeroorhundred-3fc4c", 
+ 
+ "storage_bucket": "zeroorhundred-3fc4c.firebasestorage.app" 
+ 
+ }, 
+ 
+ "client": [ 
+ 
+ { 
+ 
+ "client_info": { 
+ 
+ "mobilesdk_app_id": "1:943856314908:android:d6a9431908ed9a08decdd9", 
+ 
+ "android_client_info": { 
+ 
+ "package_name": "com.zeroorhunderd.app" 
+ 
+ } 
+ 
+ }, 
+ 
+ "oauth_client": [], 
+ 
+ "api_key": [ 
+ 
+ { 
+ 
+ "current_key": "AIzaSyCgO5jTNjpxcEyL5tr8lLp7M2-HE-8SBa8" 
+ 
+ } 
+ 
+ ], 
+ 
+ "services": { 
+ 
+ "appinvite_service": { 
+ 
+ "other_platform_oauth_client": [] 
+ 
+ } 
+ 
+ } 
+ 
+ } 
+ 
+ ], 
+ 
+ "configuration_version": "1" 
+ 
+ }

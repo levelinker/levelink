@@ -1,0 +1,4 @@
+com.zeroorhunderd.app.test.app-androidTest-0 C:\k\ZeroOrHunderd\app\build\generated\res\resValues\androidTest\debug
+com.zeroorhunderd.app.test.app-mergeDebugAndroidTestResources-1 C:\k\ZeroOrHunderd\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.zeroorhunderd.app.test.app-mergeDebugAndroidTestResources-2 C:\k\ZeroOrHunderd\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.zeroorhunderd.app.test.app-merged_res-3 C:\k\ZeroOrHunderd\app\build\intermediates\merged_res\debugAndroidTest
